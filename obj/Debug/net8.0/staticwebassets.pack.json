@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/brunoruandecastro/Documents/Desenvolvimento/bookshelf-manager/bookshelf-manager/obj/Debug/net8.0/scopedcss/projectbundle/bookshelf-manager.bundle.scp.css",
+      "PackagePath": "staticwebassets/bookshelf-manager.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/brunoruandecastro/Documents/Desenvolvimento/bookshelf-manager/bookshelf-manager/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/brunoruandecastro/Documents/Desenvolvimento/bookshelf-manager/bookshelf-manager/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/brunoruandecastro/Documents/Desenvolvimento/bookshelf-manager/bookshelf-manager/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/brunoruandecastro/Documents/Desenvolvimento/bookshelf-manager/bookshelf-manager/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.bookshelf-manager.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.bookshelf-manager.props",
+      "PackagePath": "build\\bookshelf-manager.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.bookshelf-manager.props",
+      "PackagePath": "buildMultiTargeting\\bookshelf-manager.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.bookshelf-manager.props",
+      "PackagePath": "buildTransitive\\bookshelf-manager.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
