@@ -10,7 +10,10 @@ Next, open a terminal such as PowerShell, Command Prompt, or bash.
 
 ```bash
 dotnet --version
-<<<<<<< HEAD
 
-=======
->>>>>>> df1383e (init structure for book CRUD and design frontend)
+
+### And Then
+
+```bash
+ dotnet run
+
